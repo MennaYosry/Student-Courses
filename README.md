@@ -1,2 +1,2 @@
 # Student-Courses
-Register courses
+Register courses (asp.net core MVC)
